@@ -36,5 +36,7 @@ To run the program:
     - import sys
     
   - Access the downloaded or cloned folder
-  - Open a gnome-terminal and run python3.x opencv_gui.py
+  - Open a gnome-terminal and run:
+      
+      - python3.x opencv_gui.py
   
