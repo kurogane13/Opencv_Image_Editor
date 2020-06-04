@@ -4,6 +4,9 @@ Python/linux program to edit picture files, which uses opencv library
 Program developed on June 4th, 2020 - Author: Gustavo Wydler Azuaga
 -----------------------------------------------------------------------------------------------------
 
+To view sample screenshots of the programs, access the Screenshots folder
+-----------------------------------------------------------------------------------------------------
+
 Features and how it works:
 
 It consists of 4 buttons, to perform different operations on pictures, modifying the amount of pixels:
