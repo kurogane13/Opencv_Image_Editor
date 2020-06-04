@@ -26,7 +26,7 @@ It consists of 4 buttons, to perform different operations on pictures, modifying
           
 To run the program:
 
-  - Clone the repo
+  - Clone the repo: git clone https://github.com/kurogane13/Opencv_Image_Editor.git
   - Install and import the following python libraries:
     
     - import cv2
